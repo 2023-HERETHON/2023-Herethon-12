@@ -127,18 +127,3 @@ Evironment : <img src="https://img.shields.io/badge/github-181717?style=for-the-
 │  └─ [views.py](http://views.py/)
 └─ [manage.py](http://manage.py/)
   ```
-=======
-## 파일 구조도
-  ```
-  
-  ```
-
-
-<br>
-
-<!-- Stack Icon Refernces -->
-
-[js]: /images/stack/javascript.svg
-[ts]: /images/stack/typescript.svg
-[react]: /images/stack/react.svg
-[node]: /images/stack/node.svg
