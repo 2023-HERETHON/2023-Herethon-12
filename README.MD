@@ -54,6 +54,15 @@ Evironment : <img src="https://img.shields.io/badge/github-181717?style=for-the-
 
 ### 기능 4
 
+.idea
+ ┣ inspectionProfiles
+ ┃ ┗ profiles_settings.xml
+ ┣ .gitignore
+ ┣ 2023-Herethon-12.iml
+ ┣ misc.xml
+ ┣ modules.xml
+ ┗ vcs.xml
+
 <br>
 
 <!-- Stack Icon Refernces -->
