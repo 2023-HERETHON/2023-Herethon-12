@@ -14,29 +14,31 @@
 
 <br>
 
-## 기술 스택
+## 실행 방법
+´´´
+#가상환경 설치
+python -m venv venv (Window)
+virtualenv -p python3 venv (Mac)
 
-<span>Front End :</span> 
-<span><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></span>
+#가상환경으로 들어가기
+.\venv\Scripts\activate (Window)
+source venv/bin/activate (Mac)
 
-<span>Back End: </span>
-<span><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"></span>
+#장고설치
+pip install django~=3.2.10 
 
-<span>Environment: </span>
-<span><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></span>
+#마이그레이션
+python manage.py makemigrations
+python manage.py migrate
 
-<span>Communication: </span>
-<span><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></span>
+#가상환경 실행
+python manage.py runserver
 
-<span>Design: </span>
-<span><img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></span>
+#가상환경 종료
+ctrl + c
+´´´
+
+<br>
 
 ## 팀원 소개
 
@@ -66,19 +68,40 @@
      </tr>
   </table>
 
+<br>
+
+## 기술 스택
+
+<span>Front End :</span> 
+<span><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></span>
+
+<span>Back End: </span>
+<span><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"></span>
+
+<span>Environment: </span>
+<span><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></span>
+
+<span>Communication: </span>
+<span><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></span>
+
+<span>Design: </span>
+<span><img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></span>
+
+<br>
+
 ## 화면 구성
 
 <img src="./images/face/12.png">
 <img src="./images/face/13.png">
 <img src="./images/face/14.png">
 <img src="./images/face/15.png">
-
-### 기능 1
-
-
-<!-- | JavaScript |    HTML    |   CSS    |  Node   |  Node   |
-| :--------: | :--------: | :------: | :-----: | :-----: |
-|   ![js]    |            |          | ![node] | ![node] | -->
 
 <br>
 
@@ -88,7 +111,7 @@
 
 <img width="1210" alt="KakaoTalk_20230715_054710869" src="https://github.com/2023-HERETHON/2023-Herethon-12/assets/126054466/3f146f7e-4169-40b4-b9e8-5d3a266c94fe">
 
-
+<br>
 
 ### 폴더 구조
 
