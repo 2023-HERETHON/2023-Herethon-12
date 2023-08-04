@@ -12,7 +12,7 @@
 
 #### 천천히 하나씩 질문에 대답해보세요.
 
-<img src="./images/face/design.png" width=1000px>
+<img src="./images/face/design.png" width="1000px">
 
 <br>
 
