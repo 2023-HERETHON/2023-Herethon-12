@@ -28,7 +28,33 @@
 
 ## 팀원 소개
 
-  <img src="./images/face/seongyeong.png">
+<table border="" cellspacing="0" cellpadding="0" width="100%">
+  <tr width="100%">
+    <td align="center">이성경</a></td>
+    <td align="center">김가영</a></td>
+    <td align="center">박소정</a></td>
+    <td align="center">문수호</a></td>
+    <td align="center">최유신</a></td>
+  </tr>
+  <tr width="100%">
+  <td  align="center"><a href="https://imgbb.com/"><a href="https://imgbb.com/"><img src="https://i.ibb.co/dLxQ0GQ/image.jpg" alt="image" border="0" width = "90px"></a></td>
+  <td  align="center"><a href="https://imgbb.com/"><a href="https://imgbb.com/"><img src="https://i.ibb.co/hKP4hKS/image.png" alt="image" border="0" width = "90px"></a></td>
+  <td  align="center"><a href="https://ibb.co/RzQjL2D"><img src="https://i.ibb.co/SRVfqN3/image.jpg" alt="image" border="0" width="90px"></a></td>
+    <td  align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/cXK1nX2/image.png" alt="image" border="0" width="90px"></a></td>
+  <td  align="center"><img src="./images/face/seongyeong.png"> alt="image" border="0" width="90px"></a></td>
+  </tr>
+  <tr width="100%">
+  <td  align="center">프론트엔드</td>
+    <td  align="center">프론트엔드</td>
+  <td  align="center">프론트엔드</td>
+  <td  align="center">백엔드</td>
+    <td  align="center">백엔드</td>
+     </tr>
+      <tr width="100%">
+     </tr>
+  </table>
+
+  
  <img src="./images/face/gayoung.png">
   <img src="./images/face/sojeong.png">
   <img src="./images/face/suho.png">
