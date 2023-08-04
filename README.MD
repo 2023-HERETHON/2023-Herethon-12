@@ -12,6 +12,8 @@
 
 #### 천천히 하나씩 질문에 대답해보세요.
 
+<img src="./images/face/design.png">
+
 <br>
 
 ## 실행 방법
