@@ -37,7 +37,7 @@
     <td align="center">최유신</a></td>
   </tr>
   <tr width="100%">
-  <td align="center"><img src="./images/face/sungyeong.png" alt="image" border="0" width="90px"></td>
+  <td align="center"><img src="./images/face/seongyeong.png" alt="image" border="0" width="90px"></td>
   <td  align="center"><img src="./images/face/gayoung.png" alt="image" border="0" width="90px"></td>
   <td  align="center"><img src="./images/face/sojeong.png" alt="image" border="0" width="90px"></td>
     <td  align="center"><img src="./images/face/suho.png" alt="image" border="0" width="90px"></td>
