@@ -66,9 +66,13 @@
      </tr>
   </table>
 
-## 구현 기능
+## 화면 구성
 
-<img src="./images/face/design.png">
+<img src="./images/face/12.png">
+<img src="./images/face/13.png">
+<img src="./images/face/14.png">
+<img src="./images/face/15.png">
+
 ### 기능 1
 
 
