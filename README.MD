@@ -15,7 +15,7 @@
 <br>
 
 ## 실행 방법
-´´´
+```
 #가상환경 설치
 python -m venv venv (Window)
 virtualenv -p python3 venv (Mac)
@@ -36,7 +36,7 @@ python manage.py runserver
 
 #가상환경 종료
 ctrl + c
-´´´
+```
 
 <br>
 
