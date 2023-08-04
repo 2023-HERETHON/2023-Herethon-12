@@ -1,6 +1,4 @@
-# 2023-Herethon-12
-
-2023 여기톤 : HERETHON 12조
+#2023 여기톤 : HERETHON 12조
 
 ## 서비스 소개
 
@@ -24,17 +22,21 @@
 <span><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></span>
 
 <span>Back End: </span>
-<span><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"></span>
 
 <span>Environment: </span>
 <span><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></span>
 
 <span>Communication: </span>
+<span><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></span>
 
-
+<span>Design: </span>
+<span><img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></span>
 
 ## 팀원 소개
 
@@ -68,28 +70,7 @@
 
 <img src="./images/face/design.png">
 ### 기능 1
-=======
 
-## 팀원 소개
-
-![Group 1](https://github.com/2023-HERETHON/2023-Herethon-12/assets/126054466/ee46ac19-066e-42b7-829e-125b5aff6516)
-
-
-|    이성경     |  김가영  |  박소정  | 문수호 | 최유신 |
-| :-----------: | :------: | :------: | :----: | :----: |
-| _기획&디자인_ | _프론트_ | _프론트_ |  _백_  |  _백_  |
-
-
-<br>
-
-## 기술 스택
-
-Front End : <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <br>
-Back End : <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br>
-Design : <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <br>
-Communication : <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/googlemeet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <br>
-Evironment : <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 <!-- | JavaScript |    HTML    |   CSS    |  Node   |  Node   |
 | :--------: | :--------: | :------: | :-----: | :-----: |
